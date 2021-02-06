@@ -1,0 +1,1 @@
+"C:\Program Files\PHP\v7.4\php.exe" -f C:\inetpub\wwwroot\saudi_vms\application\controllers\Activedirectory
